@@ -1,0 +1,21 @@
+passenger_id,survived,name,age,fare,embarked
+1,0,Owen Harris,22,7.25,Southampton
+2,1,John Bradley,38,71.28,Cherbourg
+3,1,Laina,26,7.93,Southampton
+4,1,Jacques Heath,35,53.1,Southampton
+5,0,William Henry,35,8.05,Southampton
+6,0,James,28,8.46,Queenstown
+7,0,Timothy,54,51.86,Southampton
+8,0,Gosta,2,21.08,Southampton
+9,1,Oscar W,27,11.13,Southampton
+10,1,Nicholas,14,30.07,Cherbourg
+11,1,Marguerite,4,16.7,Southampton
+12,1,Elizabeth,58,26.55,Southampton
+13,0,Henry B,20,8.05,Southampton
+14,0,Anders,39,31.28,Southampton
+15,0,Hulda,14,7.85,Southampton
+16,1,Mary,55,16.0,Southampton
+17,0,Eugene,2,29.13,Queenstown
+18,1,Charles,30,13.0,Southampton
+19,0,Julius,31,18.0,Southampton
+20,1,Fatima,25,7.23,Cherbourg
